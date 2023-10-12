@@ -44,8 +44,8 @@ def decisionLogic(ego:State, others:List[State]):
 
 if __name__ == "__main__":
     ACC = Scenario(ScenarioConfig(parallel=False))
-    ego = ACCAgent("ego",file_name='./demo/ACC/acc.py')
-    lead = ACCAgent("lead",file_name='./demo/ACC/acc_agent.py')
+    ego = ACCAgent("ego",file_name='./acc.py')
+    lead = ACCAgent("lead",file_name='./acc_agent.py')
     ACC.add_agent(ego)
     ACC.add_agent(lead)
     ''' the map is set here; sensor is not explicitly
