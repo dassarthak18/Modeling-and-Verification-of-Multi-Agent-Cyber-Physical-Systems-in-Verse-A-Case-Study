@@ -53,8 +53,8 @@ if __name__ == "__main__":
     track = SimpleMap2()
     ACC.set_map(track)
     ''' the initial conditions are set here '''
-    ACC.set_init([[[0, 0, 0, 0], [5, 0, 15, 0]],
-    [[7.5, 0, 28, 0], [20, 0, 28, 0]]],
+    ACC.set_init([[[5, 0, 28, 0], [5, 0, 28, 0]],
+    [[15, 0, 28, 0], [15, 0, 28, 0]]],
     [(TacticalMode.NORMAL,), (TacticalMode.NORMAL,)],)
     ''' the verification function is called here '''
     traces = ACC.verify(100, 0.1)
