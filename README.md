@@ -7,7 +7,7 @@ Submitted to ISEC 2024.
 
 ### ACC
 
-Our source code for ACC can be found here. Additionally, we provide some plots.
+Our source code for ACC can be found here. We see that our control strategy is unsafe. Additionally, we provide some plots.
 
 1. For the initial condition:
 * $x = 5$, $y = 0$, $vx = 28$, $ax = 0$ for the ego;
