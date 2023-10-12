@@ -15,4 +15,3 @@ Each of the $n$ robots has three transitions in their automaton that do not corr
 There is also a synchronizing transition $count$ in each of the $n$ automata. This leads to exactly one possible combination where all robots take their respective $count$ transitions, corresponding to a transition in the parallel composition with the synchronization label $count$.
 
 Hence, the number of transitions in the parallel composition of shd III satisfies no. of trans = $3.n+1$.
-\end{proof}
