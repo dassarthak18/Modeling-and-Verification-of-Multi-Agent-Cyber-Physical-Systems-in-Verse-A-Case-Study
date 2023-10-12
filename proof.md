@@ -1,4 +1,4 @@
-**Mathematical Proofs for the Number of Transitions in the Parallel Compositions of our Proposed Models for Clock Synchronization in Swarm Robotic Systems**
+**Mathematical Proofs for the Number of Transitions in the Parallel Compositions of our Proposed Models for Clock Synchronization in a Swarm of Robots**
 
 1. *lsync III*
 
