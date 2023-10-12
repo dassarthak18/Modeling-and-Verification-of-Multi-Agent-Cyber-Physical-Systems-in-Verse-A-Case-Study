@@ -1,4 +1,4 @@
-# Modeling and Verification of Multi-Agent Cyber-Physical Systems in Verse : A Case Study
+## Modeling and Verification of Multi-Agent Cyber-Physical Systems in Verse : A Case Study
 Submitted to ISEC 2024.
 
 ### Abstract
