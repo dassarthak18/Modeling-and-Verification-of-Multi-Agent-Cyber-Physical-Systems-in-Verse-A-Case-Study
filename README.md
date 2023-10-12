@@ -1,5 +1,5 @@
-# Modeling-and-Verification-of-Multi-Agent-Cyber-Physical-Systems-in-Verse-Library-A-Case-Study
-For the paper 'Modeling and Verification of Multi-Agent Cyber-Physical Systems in Verse Library: A Case Study' submitted to ISEC 2024.
+# Modeling-and-Verification-of-Multi-Agent-Cyber-Physical-Systems-in-Verse-A-Case-Study
+For the paper 'Modeling and Verification of Multi-Agent Cyber-Physical Systems in Verse: A Case Study' submitted to ISEC 2024.
 
 **Abstract**
 
